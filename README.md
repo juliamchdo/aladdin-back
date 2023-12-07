@@ -30,4 +30,7 @@ npm install (ou npm i)
 npm run dev
 ```
 
+### 5) Observação
+Para uma melhor execução, rode o projeto https://github.com/juliamchdo/aladdin-web em paralelo
+
 From **[Júlia Machado] (https://aladdin-task-manager.netlify.app/)**
